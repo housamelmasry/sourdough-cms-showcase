@@ -99,7 +99,7 @@ All API endpoints are secured with <strong>Laravel Sanctum</strong>. Endpoint de
 <p>
   <strong>Housam ElMasry</strong><br/>
   Backend & Mobile Engineer — Laravel/Filament, Go, React Native, NestJS<br/>
-  🔗 <a href="#">LinkedIn</a> · <a href="#">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/housamelmasry/">LinkedIn</a> · <a href="https://github.com/housamelmasry">GitHub</a>
 </p>
 
 <p><em>For inquiries about this project, please reach out via LinkedIn or GitHub rather than direct contact details.</em></p>
